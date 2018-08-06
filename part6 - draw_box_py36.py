@@ -37,6 +37,7 @@ def onkeypress(event):
         br_list = []
         object_list = []
         img = None
+        plt.close(fig)
 
 
 def toggle_selector(event):
